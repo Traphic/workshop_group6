@@ -1,1 +1,1 @@
-# workshop_group6
+The Blazor blog project for the sixth group.
